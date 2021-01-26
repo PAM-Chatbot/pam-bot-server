@@ -1,6 +1,8 @@
 # Servidor do projeto PAM (TCC UNICID)
 
+![GitHub npm](https://img.shields.io/npm/v/npm?color=red)
 ![GitHub repo size](https://img.shields.io/github/repo-size/elccastro/pam-bot-server?label=repo%20size)
+![GitHub last commit](https://img.shields.io/github/last-commit/elccastro/pam-bot-server)
 
 > Servidor node.js criado para conectar em tempo real o backend do chatbot ao app.
 
